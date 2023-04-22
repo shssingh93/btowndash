@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84b4c86c.css",
+    "main.js": "/static/js/main.33d0a878.js",
+    "static/media/video1.mp4": "/static/media/video1.6b90062f3e14b7e6c559.mp4",
+    "static/media/sreekavyathumbnail.jpg": "/static/media/sreekavyathumbnail.9b7367c90280e552aa85.jpg",
+    "static/media/bestdelivery.png": "/static/media/bestdelivery.68a9fbbab4c41e0a54a6.png",
+    "static/media/landingpage.jpg": "/static/media/landingpage.702046fc2458c520e409.jpg",
+    "static/media/ankuthumbnail.jpg": "/static/media/ankuthumbnail.30e0ba12714f70a96586.jpg",
+    "static/media/homebannerimage.jpg": "/static/media/homebannerimage.635582bd13cdf302b377.jpg",
+    "static/media/ethanthumbnail.jpg": "/static/media/ethanthumbnail.2d0ef5e79b403d6bbf1e.jpg",
+    "static/media/fedexovernight.jpg": "/static/media/fedexovernight.8fd734462d75d01200fb.jpg",
+    "static/media/instacart.png": "/static/media/instacart.5795ab93f07bca808e6d.png",
+    "static/media/pick-meals-image.jpg": "/static/media/pick-meals-image.451d87b437e155ea5537.jpg",
+    "static/media/vishalthumbnail.jpg": "/static/media/vishalthumbnail.ab553d4522c555195c97.jpg",
+    "static/media/aboutbackgroundimage.jpg": "/static/media/aboutbackgroundimage.e0f3dccdb1d5753bcb04.jpg",
+    "static/media/fedExpress.png": "/static/media/fedExpress.b07b96c13be2bfe54284.png",
+    "static/media/shubhamthumbnail.jpg": "/static/media/shubhamthumbnail.3e875274a69bba6eb3b4.jpg",
+    "static/media/mapicon.png": "/static/media/mapicon.928d72eb0d08c8a60b71.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/delivery.jfif": "/static/media/delivery.d8525abf3934452f7457.jfif",
+    "static/media/doordash.jpg": "/static/media/doordash.c643fd65989a93fd45cf.jpg",
+    "index.html": "/index.html",
+    "main.84b4c86c.css.map": "/static/css/main.84b4c86c.css.map",
+    "main.33d0a878.js.map": "/static/js/main.33d0a878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b4c86c.css",
+    "static/js/main.33d0a878.js"
+  ]
+}
