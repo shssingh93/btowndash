@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84b4c86c.css",
-    "main.js": "/static/js/main.169fbc38.js",
+    "main.js": "/static/js/main.1b60e36c.js",
     "static/media/video1.mp4": "/static/media/video1.6b90062f3e14b7e6c559.mp4",
     "static/media/sreekavyathumbnail.jpg": "/static/media/sreekavyathumbnail.9b7367c90280e552aa85.jpg",
     "static/media/bestdelivery.png": "/static/media/bestdelivery.68a9fbbab4c41e0a54a6.png",
@@ -22,10 +22,10 @@
     "static/media/doordash.jpg": "/static/media/doordash.c643fd65989a93fd45cf.jpg",
     "index.html": "/index.html",
     "main.84b4c86c.css.map": "/static/css/main.84b4c86c.css.map",
-    "main.169fbc38.js.map": "/static/js/main.169fbc38.js.map"
+    "main.1b60e36c.js.map": "/static/js/main.1b60e36c.js.map"
   },
   "entrypoints": [
     "static/css/main.84b4c86c.css",
-    "static/js/main.169fbc38.js"
+    "static/js/main.1b60e36c.js"
   ]
 }
